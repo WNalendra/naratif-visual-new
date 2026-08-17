@@ -1,0 +1,57 @@
+/* Self-hosted fonts (Poppins + Nunito Sans) so the site works fully offline */
+
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("poppins/poppins-latin-600-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("poppins/poppins-latin-700-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("poppins/poppins-latin-800-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("poppins/poppins-latin-900-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("nunito-sans/nunito-sans-latin-400-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("nunito-sans/nunito-sans-latin-600-normal.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Nunito Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("nunito-sans/nunito-sans-latin-700-normal.woff2") format("woff2");
+}
